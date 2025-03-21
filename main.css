@@ -8,8 +8,9 @@ body {
     overflow-y:hidden!important;
     overflow-x:hidden!important;
     background-image: url("/10.jpg");
-   
-
+    background-image: url("10.jpg");
+    background-image: url("https://lleyton24.github.io/Teamorosmery/10.jpg");
+    
     background-position: center center;
 }
 #container, #container2,#container3{
